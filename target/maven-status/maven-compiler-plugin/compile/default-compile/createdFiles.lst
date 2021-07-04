@@ -1,0 +1,11 @@
+presentation\Grabber.class
+presentation\GUI.class
+presentation\ImageWithFaces.class
+presentation\PaintInformation.class
+presentation\Commons.class
+detectors\FaceDetector.class
+detectors\AgeDetector.class
+detectors\GenderDetector.class
+presentation\Log.class
+detectors\EmotionDetector.class
+presentation\main.class
